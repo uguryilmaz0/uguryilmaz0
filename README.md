@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+U%C4%9Fur+Y%C4%B1lmaz;Backend+Developer;NestJS+%7C+TypeScript+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hey+%F0%9F%91%8B+I'm+U%C4%9Fur+Y%C4%B1lmaz;Fullstack+Developer;Frontend+%7C+Backend+%7C+Mobile+%7C+UI%2FUX)](https://git.io/typing-svg)
 
 <br>
 
@@ -25,25 +25,29 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-role: Backend Developer
+role: Fullstack Developer
 location: Turkey
-focus: Building scalable & maintainable systems
+focus: End-to-end product development
+interests: [Backend, Frontend, Mobile, UI/UX Design]
 ```
 
-Backend geliştirme odaklı bir yazılımcıyım. **NestJS**, **TypeScript** ve **Node.js** ekosisteminde ölçeklenebilir, sürdürülebilir sistemler geliştiriyorum. Clean Architecture ve SOLID prensiplerini temel alıyorum. Backend uzmanlığımın yanı sıra Frontend, UI/UX ve tasarım süreçlerini de yöneterek ürünün bütününe hakim oluyorum.
+Fullstack geliştirici olarak bir ürünün tasarımından backend altyapısına kadar tüm süreçlerinde aktif rol alıyorum. **NestJS** ve **Node.js** ile ölçeklenebilir API'ler geliştirirken, **Next.js** ve **React** ile modern kullanıcı arayüzleri oluşturuyorum. **Figma** ile tasarım süreçlerini yönetiyor, **Flutter** ile mobil uygulamalar geliştiriyorum. Clean Architecture ve SOLID prensiplerini temel alıyorum.
 
 <table>
 <tr>
 <td>🔭</td><td>Şu an <b>NestJS Boilerplate</b> üzerinde çalışıyorum</td>
 </tr>
 <tr>
-<td>🎯</td><td>Odak: <b>Clean Architecture · SOLID · DevOps</b></td>
+<td>🌐</td><td>Frontend: <b>Next.js · React · Tailwind CSS</b></td>
+</tr>
+<tr>
+<td>⚙️</td><td>Backend: <b>NestJS · TypeScript · Node.js</b></td>
 </tr>
 <tr>
 <td>🎨</td><td>Figma ile UI/UX tasarım süreçlerini yönetiyorum</td>
 </tr>
 <tr>
-<td>🌱</td><td>Açık kaynak topluluğuna katkıda bulunmaktan keyif alıyorum</td>
+<td>🎯</td><td>Odak: <b>Clean Architecture · SOLID · DevOps</b></td>
 </tr>
 </table>
 
@@ -56,27 +60,27 @@ Backend geliştirme odaklı bir yazılımcıyım. **NestJS**, **TypeScript** ve 
 <div align="center">
 
 <details open>
-<summary><b>🔧 Backend</b></summary>
-<br>
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
-
-<details open>
 <summary><b>🌐 Frontend</b></summary>
 <br>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </details>
 
@@ -145,23 +149,7 @@ Backend geliştirme odaklı bir yazılımcıyım. **NestJS**, **TypeScript** ve 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uguryilmaz0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-</div>
-
-<br>
-
-<!-- ────────────────────────────────────────── -->
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uguryilmaz0/uguryilmaz0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uguryilmaz0/uguryilmaz0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/uguryilmaz0/uguryilmaz0/output/github-snake-dark.svg" />
-</picture>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=uguryilmaz0&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
 </div>
 
 <br>
