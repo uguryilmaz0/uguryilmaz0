@@ -2,7 +2,11 @@
 
 <div align="center">
 
-# Hey 👋 I'm Uğur Yılmaz
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+I'm+U%C4%9Fur+Y%C4%B1lmaz;Frontend+Developer;Building+Data+Driven+Products;React+%7C+Next.js+%7C+NestJS)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 Frontend Developer building **data-driven products**
 
@@ -109,9 +113,9 @@ Docker • Git • Linux • Figma • VS Code
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=uguryilmaz0&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=uguryilmaz0&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguryilmaz0&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguryilmaz0&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
