@@ -113,14 +113,6 @@ Docker • Git • Linux • Figma • VS Code
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguryilmaz0&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=uguryilmaz0&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
