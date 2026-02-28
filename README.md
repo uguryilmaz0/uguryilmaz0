@@ -117,12 +117,4 @@ Docker • Git • Linux • Figma • VS Code
 
 </div>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/uguryilmaz0/uguryilmaz0/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
